@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ZombieRecipies/home(1).screen&apos; to &apos;recipes.screen&apos;" description="Rename resource &apos;home(1).screen&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="home(1).screen" name="recipes.screen" stamp="1392503634448" updateReferences="true"/>
+</session>
